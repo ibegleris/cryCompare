@@ -8,4 +8,4 @@ Installation:
 * pip install -r requirements.txt
 * Good to go!
 
-Shoutout to stefs304 for his nice implementation of the API!
+Special thanks to stefs304 for his nice implementation of the API!
