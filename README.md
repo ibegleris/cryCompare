@@ -7,3 +7,5 @@ Installation:
 * I assume you have Python and pip installed. If not, I recommend the Miniconda distro from Continuum Analytics: https://conda.io/miniconda.html
 * pip install -r requirements.txt
 * Good to go!
+
+Shoutout to stefs304 for his nice implementation of the API!
