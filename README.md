@@ -1,28 +1,9 @@
-# cryCompare
-Python wrapper for Crypto Compare public API
+This is a play around with cryptocurrencies and a moving average implementation using crycompare API. 
+Implementation is done in the Jupiter notebook using a combination of NumPy and Pandas.
 
-Following requests are supported:
-- CoinList
-- Price
-- PriceHistorical
-- CoinSnapshot
-- CoinSnapshotFullById
-- HistoMinute
-- HistoHour
-- HistoDay
+I recommend you use Python 3.6 in any case but it should be fine for any Python 3 version. 
 
-Wrapper requires following python modules:
-- requests
-
-Requests are devided into two classes:
-- Price
-- History
-
-Price class methods: price, priceMulti, priceMultiFull, generateAvg, dayAvg, priceHistorical, coinSnapshot, coinSnahpshotFullById.
-For detailed documentation visit CryptoCompare API website.
-
-History class methods: histoMinute, histoHour, histoDay
-For detailed documentation visit CryptoCompare API website.
-
-CryptoCompare API Documentation can be found at https://www.cryptocompare.com/api/#introduction
-
+Installation:
+* I assume you have Python and pip installed. If not, I recommend the Miniconda distro from Continuum Analytics: https://conda.io/miniconda.html
+* pip install -r requirements.txt
+* Good to go!
