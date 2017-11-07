@@ -6,6 +6,6 @@ I recommend you use Python 3.6 in any case but it should be fine for any Python 
 ### Installation:
 * I assume you have Python and pip installed. If not, I recommend the Miniconda distro from Continuum Analytics: https://conda.io/miniconda.html
 * pip install -r requirements.txt
-* Good to go!
-
+* jupyter notebook Moving_average_crypto_api.ipynb
+* Have a play around!
 Special thanks to stefs304 for his nice implementation of the API!
